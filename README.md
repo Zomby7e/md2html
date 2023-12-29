@@ -12,7 +12,7 @@
 1. Your markdown file is test.md, this script will generate test.html.
 
    ```bash
-   node md2blog.js -if test.md -of test
+   node md2html.js -if test.md -of test
    ```
 
 2. Open your html file, select all and paste it to your blog or web page. (Blogger is tested)
