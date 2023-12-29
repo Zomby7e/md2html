@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [Node.js](nodejs.org)
+- [Node.js](https://nodejs.org)
 - Internet
 
 ## Usage
